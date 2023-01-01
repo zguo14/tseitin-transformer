@@ -1,0 +1,10 @@
+a123
+
+a+c
+a*---a
+a+b;a:0,b:1
+ ( (-a)+(a*b)) * a * (c + -b) *-c
+(a+b+c)*(a+b+-c)*(-b+a +c)*(-a*-c)
+(a+b+c)*(a+b+-c)*(-b+a +c)*(a+-b+-c)*(-a+b+c)*(-a+b+-c)*(-a+-b+c)*(-a+-c+-c)
+(a+b+c)*(a+b+-c)*(-b+a +c)*(a+-b+-c)*(-a+b+c)*(-a+b+-c)*(-a+-b+c)*(-a+-c+-b)
+(a+b+c)*(a+b+-c)*(-b+a +c)*(a+-b+-c)*(-a+b+c)*(-a+b+-c)*(-a+-b+c)
